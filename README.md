@@ -1,7 +1,10 @@
 
-
 # Scheduling a meeting in MS Teams
-Schedule a meeting in MS Teams as per your preferences using the MS Teams or the MS Outlook app. You can create an instant meeting invite or schedule it for a later date or time. A maximum number of 1000 people can attend a Teams meeting at the same time. 
+- [Scheduling a meeting in MS Teams](#scheduling-a-meeting-in-ms-teams)
+  - [Scheduling a meeting from MS Teams](#scheduling-a-meeting-from-ms-teams)
+  - [Scheduling a meeting on MS Outlook](#scheduling-a-meeting-on-ms-outlook)
+
+Pallavi Schedule a meeting in MS Teams as per your preferences using the MS Teams or the MS Outlook app. You can create an instant meeting invite or schedule it for a later date or time. A maximum number of 1000 people can attend a Teams meeting at the same time. 
 
 Prerequisites : You must have a Microsoft account.
 ## Scheduling a meeting from MS Teams
